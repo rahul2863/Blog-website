@@ -34,7 +34,7 @@ This is a blog website built using Node.js and Express.js. It utilizes a custom 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blog-website.git
+   git clone https://github.com/rahul2863/blog-website.git
    cd blog-website
 
 2. Install dependencies:
