@@ -79,7 +79,9 @@ This server will be running on http://localhost:3000.
 This server will be running on http://localhost:4000.
 
 ## Usage
-
+### Authentication
+This blog website supports two methods of authentication:
+#### Google Authentication:
 ### Viewing the Blog
 
 Open your browser and navigate to http://localhost:3000 to view the blog website. You can view all posts.
