@@ -16,7 +16,7 @@ This is a blog website built using Node.js and Express.js. It utilizes a custom 
 - [License](#license)
 
 ## Features
-
+- Authentication for your account
 - Create new blog posts
 - Update existing blog posts
 - Delete blog posts
